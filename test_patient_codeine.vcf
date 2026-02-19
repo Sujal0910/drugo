@@ -1,0 +1,8 @@
+##fileformat=VCFv4.2
+##source=PharmaGuard_Simulator
+##INFO=<ID=GENE,Number=1,Type=String,Description="Pharmacogenomic Target Gene">
+##INFO=<ID=STAR,Number=1,Type=String,Description="Star Allele Designation">
+##INFO=<ID=RS,Number=1,Type=String,Description="dbSNP RS Identifier">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO
+22	42126611	rs3892097	C	T	100	PASS	GENE=CYP2D6;STAR=*4;RS=rs3892097
+10	94942200	rs1057910	A	C	100	PASS	GENE=CYP2C9;STAR=*3;RS=rs1057910
