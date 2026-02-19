@@ -1,5 +1,5 @@
 streamlit==1.31.0
 pydantic==2.6.1
-google-generativeai==0.4.0
+google-generativeai>=0.8.0
 python-dotenv==1.0.1
 plotly==5.18.0
